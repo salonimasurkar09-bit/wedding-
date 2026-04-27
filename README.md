@@ -35,7 +35,7 @@ The dev server starts at `http://localhost:3000` (or port 8888 via Netlify CLI).
 
 ## Customisation
 
-- **Names**: Replace `Priya` and `Arjun` in `src/routes/index.tsx`
-- **Photo**: Replace `public/placeholder.png` with the couple's actual photo
+- **Names**: Replace `Sarvesh` and ` Dipali` in `src/routes/index.tsx`
+- **Photo**: Replace `c1.jpg` with the couple's actual photo
 - **Date/Venue**: Update the date and venue strings in the same file
-- **Family Names**: Update `Sharma Parivar` / `Verma Parivar` sections with actual family details
+- **Family Names**: Update `Panderkar Parivar` / `Mardhekar Parivar` sections with actual family details

@@ -327,7 +327,7 @@ function ScratchReveal() {
             fontSize: '0.9rem',
           }}
         >
-          Sunday — An Auspicious Day
+          Sunday — 12:30 PM
         </p>
       </div>
 
@@ -696,7 +696,7 @@ function WeddingInvitation() {
                 animation: contentVisible ? 'fadeUp 1.1s 0.5s ease both' : 'none',
               }}
             >
-              <span className="gold-text">Priya</span>
+              <span className="gold-text">Sarvesh</span>
             </h1>
 
             <div
@@ -722,7 +722,7 @@ function WeddingInvitation() {
                 animation: contentVisible ? 'fadeUp 1.1s 0.8s ease both' : 'none',
               }}
             >
-              <span className="gold-text">Arjun</span>
+              <span className="gold-text">Dipali</span>
             </h1>
 
             <p
@@ -761,7 +761,7 @@ function WeddingInvitation() {
                 }}
               >
                 <img
-                  src="/placeholder.png"
+                  src="/c1.png"
                   alt="Couple"
                   style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                 />
@@ -786,7 +786,7 @@ function WeddingInvitation() {
                   marginBottom: 28,
                 }}
               >
-                ✦ Wedding Invitation ✦
+                ✦ Sarvesh-Dipali Wedding Invitation ✦
               </p>
 
               <p
@@ -882,7 +882,7 @@ function WeddingInvitation() {
                 letterSpacing: '0.08em',
               }}
             >
-              The Grand Pavilion, Mumbai
+              Surbhi Community Hall, Naval Civilian Housing Colony, Kanjurmarg West
             </p>
           </section>
 
@@ -1039,7 +1039,7 @@ function WeddingInvitation() {
                     marginBottom: 14,
                   }}
                 >
-                  Sharma Parivar
+                  Mardhekar Parivar
                 </p>
                 <div
                   style={{
@@ -1057,16 +1057,16 @@ function WeddingInvitation() {
                     lineHeight: 2,
                   }}
                 >
-                  Shri Rajesh Kumar Sharma
+                  Shri Ramdas Mardhekar
                   <br />
-                  Smt. Sunita Devi Sharma
+                  Smt. Meenakshi Mardhekar
                   <br />
                   <em style={{ color: '#D4AF37', fontSize: '0.82rem' }}>
                     (Parents of the Bride)
                   </em>
                   <br />
                   <br />
-                  New Delhi, India
+                  Mumbai, India
                 </p>
               </div>
 
@@ -1142,7 +1142,7 @@ function WeddingInvitation() {
                     marginBottom: 14,
                   }}
                 >
-                  Verma Parivar
+                  Panderkar Parivar
                 </p>
                 <div
                   style={{
@@ -1160,9 +1160,9 @@ function WeddingInvitation() {
                     lineHeight: 2,
                   }}
                 >
-                  Shri Suresh Prasad Verma
+                  Shri Jagdish Panderkar
                   <br />
-                  Smt. Kavita Verma
+                  Smt. Diksha Panderkar
                   <br />
                   <em style={{ color: '#D4AF37', fontSize: '0.82rem' }}>
                     (Parents of the Groom)
@@ -1207,7 +1207,7 @@ function WeddingInvitation() {
                 letterSpacing: '0.25em',
               }}
             >
-              Priya & Arjun — 10th May 2026
+              Sarvesh & Dipali — 10th May 2026
             </p>
           </footer>
         </div>
