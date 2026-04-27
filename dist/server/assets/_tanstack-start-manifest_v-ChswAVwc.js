@@ -1,0 +1,4 @@
+const tsrStartManifest = () => ({ routes: { __root__: { filePath: "C:/Users/Saloni/OneDrive/Desktop/wedding invites/wedding/src/routes/__root.tsx", children: ["/", "/products/$productId"], assets: [{ tag: "link", attrs: { rel: "stylesheet", href: "/assets/index-zP9E7pDm.css", type: "text/css" } }], preloads: ["/assets/index-CCTOS-bY.js"] }, "/": { filePath: "C:/Users/Saloni/OneDrive/Desktop/wedding invites/wedding/src/routes/index.tsx", children: void 0, assets: [], preloads: ["/assets/index-BVPJT1Ho.js"] }, "/products/$productId": { filePath: "C:/Users/Saloni/OneDrive/Desktop/wedding invites/wedding/src/routes/products/$productId.tsx", children: void 0, assets: [], preloads: ["/assets/_productId--E0LM-pQ.js"] } }, clientEntry: "/assets/index-CCTOS-bY.js" });
+export {
+  tsrStartManifest
+};

@@ -1,0 +1,16 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/client",
+  "devCommand": "npm run dev",
+  "functions": {
+    "api/handler.js": {
+      "runtime": "nodejs18.x"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/api/handler"
+    }
+  ]
+}
